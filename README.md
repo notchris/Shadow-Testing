@@ -1,2 +1,10 @@
-# Battle
-In the end who wins, in the end, who, end wins, the.
+# Shadow Debug issue
+A repo to test a three.js shadow rendering configuration.
+
+## Install
+
+npm install
+
+## Run
+
+npm run start
